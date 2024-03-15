@@ -28,7 +28,7 @@ This lesson will give you an overview of what to expect in this introductory cou
    - Iterators
 5. Loading Data & IPC.
     - Loading CVS/JSON
-    - QIPC
+    - QIPC: Inter-Process Communication
     - Publishing & Subscribing
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
