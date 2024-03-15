@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url-Bucsa]
 
-# KX-Academy
+# KX Academy
 
 ## Description
 
