@@ -1,6 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url-Bucsa]
 
-# KX-Academy
+# KDB Developer Level 1 Course
 
 ## Description
 
