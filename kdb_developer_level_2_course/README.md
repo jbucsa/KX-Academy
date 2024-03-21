@@ -162,92 +162,92 @@ This lesson will give you an overview of what to expect in this introductory cou
      - Coalesce ^
      - Mathematical Operations
 10. Tables
-   - Introduction to Tables
-     - Table discovery
-     - Table schema
-   - Types of Tables
-     - How to identify whether a table is keyed or unkeyed
-     - Unkeyed tables
-       - A table is a list of dictionaries
-       - A table is a flipped column dictionary
-       - A table is a collection of lists of equal length (called columns)
-     - Keyed tables
-       - Differences from unkeyed tables
-     - Keying and unkeying a table
-   - Creating Tables
-     - Unkeyed Tables
-       - Creating a table with existing data
-       - Creating an empty table
-     - Keyed Tables
-   - Accessing Tables
-     - Accessing columns
+    - Introduction to Tables
+       - Table discovery
+       - Table schema
+    - Types of Tables
+       - How to identify whether a table is keyed or unkeyed
        - Unkeyed tables
+         - A table is a list of dictionaries
+         - A table is a flipped column dictionary
+         - A table is a collection of lists of equal length (called columns)
        - Keyed tables
-     - Accessing rows
+         - Differences from unkeyed tables
+       - Keying and unkeying a table
+    - Creating Tables
+       - Unkeyed Tables
+         - Creating a table with existing data
+         - Creating an empty table
+       - Keyed Tables
+    - Accessing Tables
+       - Accessing columns
+         - Unkeyed tables
+         - Keyed tables
+       - Accessing rows
        - Unkeyed tables
        - Keyed table
-     - Accessing a particular cell
-   - Inserting Data
-     - Insert
-       - Unkeyed tables
-       - Keyed tables
-       - Bulk inserts
-     - Upsert
-       - Unkeyed tables
-       - Keyed tables
-       - Bulk upserts  
+       - Accessing a particular cell
+    - Inserting Data
+       - Insert
+         - Unkeyed tables
+         - Keyed tables
+         - Bulk inserts
+       - Upsert
+         - Unkeyed tables
+         - Keyed tables
+         - Bulk upserts  
 11.  Queries -  qSQL
-   - Introduction to qSQL
+    - Introduction to qSQL
      - Choosing data from a table – select
        - Syntax
        - Virtual columns
        - Queries with a specified result – the select clause
-   - Constraints, Aggregations & Grouping
-     - Querying with aggregations
-     - Queries with constraints – the where clause
-     - Queries with grouping – the by clause
-   - Temporal Arithmetic
-     - How to use qSQL for temporal arithmetic.
-   - Exec, Update & Delete
-     - Extracting data from tables – exec
-     - Updating/modifying table data – update
-     - Remove data from table – delete
-   - Fby Vs. Nested Queries
-     - How to use fby to avoid nested queries in qSQL.
+     - Constraints, Aggregations & Grouping
+       - Querying with aggregations
+       - Queries with constraints – the where clause
+       - Queries with grouping – the by clause
+     - Temporal Arithmetic
+      - How to use qSQL for temporal arithmetic.
+     - Exec, Update & Delete
+       - Extracting data from tables – exec
+       - Updating/modifying table data – update
+       - Remove data from table – delete
+     - Fby Vs. Nested Queries
+       - How to use fby to avoid nested queries in qSQL.
 12.  Table Joins
-   - Introduction to Joins
-     - Join rows using ,
-     - Join columns using ,’
-   - Left Join
-     - concept of keyed joins
-     - left join (lj)
-   - Inner Join & Asof Join
-     - keyed join called the inner join (ij)
-     - bitemporal joins
-       - asof join.
+     - Introduction to Joins
+        - Join rows using ,
+        - Join columns using ,’
+     - Left Join
+       - concept of keyed joins
+       - left join (lj)
+      - Inner Join & Asof Join
+        - keyed join called the inner join (ij)
+         - bitemporal joins
+         - asof join.
 13.  Working Files
-   - Creatuing Filepaths
-     - How to create filepaths with useful inbuilt functions key and hsym
-   - Filepaths & sv
-     - Continuing on the topic of file paths
-     - Introduces sv
-   - Saving & Loading kdb+ Data
-     - Saving kdb+ data
-     - Loading kdb+ data
-   - Saving & Loading TXT Data
-     - Writing to text files
-     - Loading data from text data
-   - Saving & Loading CSV Data
-     - Saving data in CSV format
-     - Loading data in CSV format
-   - Saving & Loading JSON Data
-     - Saving data in JSON format
-     - Loading data in JSON format
+       - Creatuing Filepaths
+          - How to create filepaths with useful inbuilt functions key and hsym
+        - Filepaths & sv
+          - Continuing on the topic of file paths
+          - Introduces sv
+        - Saving & Loading kdb+ Data
+          - Saving kdb+ data
+          - Loading kdb+ data
+        - Saving & Loading TXT Data
+          - Writing to text files
+          - Loading data from text data
+        - Saving & Loading CSV Data
+          - Saving data in CSV format
+          - Loading data in CSV format
+        - Saving & Loading JSON Data
+          - Saving data in JSON format
+          - Loading data in JSON format
 14.  Inter-Process Communication
-   - The first topic covers the assignment and monitoring of ports
-   - The process of opening and closing connections
-   - Introduces methods of executing tasks across a network handle
-   - Explores both synchronous and asynchronous communication 
+      - The first topic covers the assignment and monitoring of ports
+      - The process of opening and closing connections
+      - Introduces methods of executing tasks across a network handle
+      - Explores both synchronous and asynchronous communication 
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
